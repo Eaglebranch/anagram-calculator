@@ -1,0 +1,15 @@
+C:\Users\r00tmaster\source\repos\AnagramCalculator\bin\Debug\net6.0\AnagramCalculator.exe
+C:\Users\r00tmaster\source\repos\AnagramCalculator\bin\Debug\net6.0\AnagramCalculator.deps.json
+C:\Users\r00tmaster\source\repos\AnagramCalculator\bin\Debug\net6.0\AnagramCalculator.runtimeconfig.json
+C:\Users\r00tmaster\source\repos\AnagramCalculator\bin\Debug\net6.0\AnagramCalculator.dll
+C:\Users\r00tmaster\source\repos\AnagramCalculator\bin\Debug\net6.0\AnagramCalculator.pdb
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.csproj.AssemblyReference.cache
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.AssemblyInfoInputs.cache
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.AssemblyInfo.cs
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.csproj.CoreCompileInputs.cache
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.dll
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\refint\AnagramCalculator.dll
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.pdb
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\AnagramCalculator.genruntimeconfig.cache
+C:\Users\r00tmaster\source\repos\AnagramCalculator\obj\Debug\net6.0\ref\AnagramCalculator.dll
